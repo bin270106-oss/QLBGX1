@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.quanlybaigiuxe1">
         <activity
+            android:name=".VehicleInActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LayxeActivity"
+            android:exported="false" />
+        <activity
             android:name=".FeatureActivity"
             android:exported="false" />
         <activity
